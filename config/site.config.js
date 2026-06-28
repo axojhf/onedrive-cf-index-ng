@@ -63,7 +63,7 @@ module.exports = {
   // Note: This BYPASSES password protection for specific file types
   opds: {
     enabled: false,
-    title: "lyc8503's OneDrive",
+    title: "My OneDrive",
     description: 'OPDS catalog powered by onedrive-cf-index-ng.',
     fileExtensions: ['.epub', '.pdf', '.mobi', '.azw3', '.azw', '.cbz', '.cbr'],
   },
